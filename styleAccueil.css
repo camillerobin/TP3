@@ -26,6 +26,7 @@ body
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
+    text-align: center;
 }
 
 #header h1 { margin: 0; }
@@ -75,6 +76,7 @@ body
 	-webkit-box-shadow: 5px 3px 3px #0a182e;
 	box-shadow: 5px 3px 3px #0a182e;
 	opacity: 0.8;
+    text-align: center;
 }
 
 #edito h2
